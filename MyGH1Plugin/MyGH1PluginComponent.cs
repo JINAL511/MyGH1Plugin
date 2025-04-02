@@ -18,7 +18,7 @@ namespace MyGH1Plugin
         public MyGH1PluginComponent()
           : base("MyGH1Plugin", 
                 "Nickname",
-            "This is my first trial plugin",
+            "This is my first trial plugin_and ;lets work on it",
             "Category", "Subcategory")
         {
         }
