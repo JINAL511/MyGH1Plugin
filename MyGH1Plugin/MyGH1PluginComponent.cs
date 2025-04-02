@@ -16,8 +16,9 @@ namespace MyGH1Plugin
         /// new tabs/panels will automatically be created.
         /// </summary>
         public MyGH1PluginComponent()
-          : base("MyGH1Plugin", "Nickname",
-            "Description",
+          : base("MyGH1Plugin", 
+                "Nickname",
+            "This is my first trial plugin",
             "Category", "Subcategory")
         {
         }
